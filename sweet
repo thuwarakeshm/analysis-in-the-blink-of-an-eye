@@ -1,4 +1,5 @@
-#! /home/thuwarakesh/projects/thuwarakesh/medium/analytics_in_the_blink/env/bin/python
+#! /usr/bin/python
+# If you're using a virtualenv, you must change the above path to point it's python executable.
 
 import pandas as pd
 import sweetviz as sv
